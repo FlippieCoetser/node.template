@@ -1,3 +1,2 @@
-# Inject Importmap
-
-Utility to inject Importmap into HTML files
+# node.template
+Template for Node Module Development

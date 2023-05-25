@@ -1,5 +1,5 @@
 {
-  "name": "inject.importmap",
+  "name": "node.template",
   "version": "1.0.0",
   "description": "Template for Node Module Development",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/FlippieCoetser/inject.importmap.git"
+    "url": "https://github.com/FlippieCoetser/node.template.git"
   },
   "author": "Flippie Coetser",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FlippieCoetser/inject.importmap/issues"
+    "url": "https://github.com/FlippieCoetser/node.template/issues"
   },
-  "homepage": "https://github.com/FlippieCoetser/inject.importmap#readme",
+  "homepage": "https://github.com/FlippieCoetser/node.template#readme",
   "devDependencies": {
     "jasmine": "^5.0.0"
   }
